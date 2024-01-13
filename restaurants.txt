@@ -1,0 +1,4 @@
+burger-6.5JOD
+shawarma-4.5JOD
+pizza-8JOD
+breakfast-10JOD
